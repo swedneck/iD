@@ -23,11 +23,11 @@ please open a request there with the link and license details.
 ## I'm having trouble seeing some of the colors. Is there a way to customize or change them?
 
 Because iD uses CSS and SVG for all its rendering, users can override the colors
-with the [Stylish extension](https://en.wikipedia.org/wiki/Stylish) on Firefox or Chrome.
-Stylish also allows users to share custom styles with others.
+with the [Stylus extension](https://github.com/openstyles/stylus) on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Opera](https://addons.opera.com/en/extensions/details/stylus/), or [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
+Stylus also allows users to share custom styles with others.
 
-You can find detailed instructions on how to install Stylish
-[here on learnosm.org](http://learnosm.org/en/hot-tips/enhance/).
+You can find detailed instructions on how to install Stylus
+[here on learnosm.org](http://learnosm.org/en/hot-tips/enhance/), stylus works just like stylish does.
 
 See also: https://github.com/openstreetmap/iD/issues/3095#issuecomment-224988925
 
